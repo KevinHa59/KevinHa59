@@ -21,5 +21,5 @@ NetBeans, Visual Studio, Visual Studio Code, Android Studio, Unity 3D
 Vietnamese, English
 
 ### Connect with Me
-[webside]: https://tongha.tech
-[linkedin]: https://www.linkedin.com/in/tong-ha
+[webside](https://tongha.tech) | 
+[linkedin](https://www.linkedin.com/in/tong-ha)
