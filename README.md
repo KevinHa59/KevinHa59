@@ -29,3 +29,7 @@
 > * [Webside](https://tongha.tech)
 > * [Linkedin](https://www.linkedin.com/in/tong-ha)
 
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=KevinHa59&&show_icons=true&title_color=ffffff&icon_color=2085ff&text_color=daf7dc&bg_color=0d1117">
+  </p>
+
