@@ -9,11 +9,7 @@
 
 ## * Technologies
 
-> <img width="40" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png"/><br>
-> <img width="40" src="https://img.icons8.com/color/48/000000/c-sharp-logo-2.png"/><br>
-> <img width="40" src="https://img.icons8.com/color/48/000000/html-5--v1.png"/><br>
-> <img width="40" src="https://img.icons8.com/color/48/000000/css3.png"/><br>
-> <img width="40" src="https://img.icons8.com/color/48/000000/mysql-logo.png"/><br>
+> <img width="40" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png"/>  <img width="40" src="https://img.icons8.com/color/48/000000/c-sharp-logo-2.png"/>  <img width="40" src="https://img.icons8.com/color/48/000000/html-5--v1.png"/>  <img width="40" src="https://img.icons8.com/color/48/000000/css3.png"/>  <img width="40" src="https://img.icons8.com/color/48/000000/mysql-logo.png"/>
 
 ## * IDE
 >  * NetBeans
@@ -24,12 +20,10 @@
 >  * Blender
 >  * Adobe Photoshop
 >  * Adobe XD
-<br>
 
 ## * Languages: 
 > * Vietnamese
 > * English
-<br>
 
 ## * Connect with Me: 
 > * [Webside](https://tongha.tech)
