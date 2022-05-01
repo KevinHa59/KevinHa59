@@ -1,11 +1,15 @@
 # <p align="CENTER">TONG HA</p>
 
 ## * A little about Me
-> Hello! I'm Tong Ha, a Computer Science student. 
+> Hi! I'm Tong Ha
 > 
-> I enjoy creating creative things for Windows, Mobile, and Internet platform. My goal is using my knowledge to make my ideas come true and also performance experiences.
+> I graduated from University of Houston-Downtown in 2021 with a degree in Computer Science.
 > 
-> Moreover, learning new technologies is what I am passion about (I self-taught Java and C# for couple years). I enjoy working in group because the best way to learn thing is > from friends and teammates. I also like helping other and reviewing code for other teammates.
+I have some experience in front-end development, and also interested in back-end development. I love to create beautiful and performant products with delightful user experiences.
+> 
+> My front-end knowledge include ReactJS.
+> 
+> My back-end knowledge include Spring Boot.
 
 ## * Technologies
 
