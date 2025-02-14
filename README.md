@@ -1,15 +1,7 @@
 # <p align="CENTER">TONG HA</p>
 
 ## * A little about Me
-> Hi! I'm Tong Ha
-> 
-> I graduated from University of Houston-Downtown in 2021 with a degree in Computer Science.
-> 
-> I have some experience in front-end development, and also interested in back-end development. I love to create beautiful and performant products with delightful user experiences.
-> 
-> My front-end knowledge include ReactJS.
-> 
-> My back-end knowledge include Spring Boot.
+> My name is Tong Ha, a Full Stack Developer with a Bachelor of Computer Science degree. I have a passion for Software Development and strong knowledge in ReactJS, Redux, and Next.js. Currently, I focus on front-end development using Next.js, with Python and Azure function App for back end, and SQL Server as the database.
 
 ## * Technologies
 
