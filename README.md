@@ -5,7 +5,7 @@
 
 ## * Technologies
 
-> <img width="40" src="https://img.icons8.com/color/48/000000/javascript--v1.png"/>  <img width="40" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png"/>  <img width="40" src="https://img.icons8.com/color/48/000000/c-sharp-logo-2.png"/>  <img width="40" src="https://img.icons8.com/color/48/000000/html-5--v1.png"/>  <img width="40" src="https://img.icons8.com/color/48/000000/css3.png"/>  <img width="40" src="https://img.icons8.com/color/48/000000/mysql-logo.png"/>
+> <img width="40" src="https://img.icons8.com/?size=100&id=bzf0DqjXFHIW&format=png&color=000000"/> <img width="40" src="https://img.icons8.com/color/48/000000/javascript--v1.png"/>  <img width="40" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png"/>  <img width="40" src="https://img.icons8.com/color/48/000000/c-sharp-logo-2.png"/>  <img width="40" src="https://img.icons8.com/color/48/000000/html-5--v1.png"/>  <img width="40" src="https://img.icons8.com/color/48/000000/css3.png"/>  <img width="40" src="https://img.icons8.com/color/48/000000/mysql-logo.png"/>
 
 ## * IDE
 >  * Visual Studio Code
