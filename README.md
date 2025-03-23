@@ -1,7 +1,7 @@
 # <p align="CENTER">TONG HA</p>
 
 ## * A little about Me
-> My name is Tong Ha, a Full Stack Developer with a Bachelor of Computer Science degree. I have a passion for Software Development and strong knowledge in ReactJS, Redux, and Next.js. Currently, I focus on front-end development using Next.js, with Python and Azure function App for back end, and SQL Server as the database.
+> I am a Full Stack Developer with expertise in React.js, Redux, Next.js, Node.js, Python, Azure Functions, SQL, and MongoDB. I build scalable, efficient, and user-friendly web applications, focusing on performance optimization and modern technologies.
 
 ## * Technologies
 
